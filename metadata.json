@@ -1,0 +1,6 @@
+{
+  "name": "S.S. Market Terminal",
+  "description": "Professional Indian-stock analysis terminal, live market dashboard, technical and fundamental scoring engine, portfolio manager, and market radar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
